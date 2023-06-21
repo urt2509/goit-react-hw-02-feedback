@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-import { Section } from './Sections/Sections';
-import { FeedbackOptions } from './Feedbacks/Feedbacks';
-import { Statistics } from './Statistics/Statistics';
-import { NotificationMessage } from './Notification/Notification';
+import { Section } from './Sections';
+import { FeedbackOptions } from './Feedbacks';
+import { Statistics } from './Statistics';
+import { NotificationMessage } from './Notification';
 
 class App extends Component {
   state = {

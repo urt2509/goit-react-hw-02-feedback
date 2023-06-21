@@ -1,1 +1,1 @@
-export { default } from './Sections.jsx';
+export { Section } from './Sections.jsx';
